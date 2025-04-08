@@ -96,11 +96,11 @@ The project integrates a user-friendly UI with a backend powered by **Apache Spa
 pip install -r requirements.txt
 ```
 
-
 ## 🙌 Credits
-- Project Developer: B Akash Krishna(B.Tech AI & ML, KTU – 6th Semester)
-- 📧 Email: akash199699@gmail.com
-- 🔗 GitHub: @akash199699
+Project Developer
+Akash Krishna – B.Tech AI & ML, KTU – 6th Semester
+📧 Email: akash199699@gmail.com
+🔗 GitHub: @akash199699
 
 This project was developed as part of the mini project under the university curriculum.
 Special thanks to our mentors for their guidance, and teammates Anandhu S Kumar and Jewel Saji for their collaboration.
