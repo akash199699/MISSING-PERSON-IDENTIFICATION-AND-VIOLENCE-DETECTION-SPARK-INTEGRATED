@@ -1,0 +1,9 @@
+numpy
+matplotlib
+opencv-python
+torch
+torchvision
+facenet-pytorch
+pyspark
+fpdf
+Pillow
