@@ -104,4 +104,4 @@ B Akash Krishna – B.Tech AI & ML, KTU – 6th Semester
 🔗 GitHub: [@akash199699](https://github.com/akash199699)
 
 This project was developed as part of the mini project under the university curriculum.
-Special thanks to our mentors for their guidance, and teammates Anandhu S Kumar and Jewel Saji for their collaboration.
+Special thanks to our mentors for their guidance, and teammates **Anandhu S Kumar** and **Jewel Saji** for their collaboration.
