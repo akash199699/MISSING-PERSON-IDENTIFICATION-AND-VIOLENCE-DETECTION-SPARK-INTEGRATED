@@ -97,7 +97,7 @@ pip install -r requirements.txt
 ```
 
 
-🙌 Credits
+## 🙌 Credits
 Akash Krishna – Project developer
 (B.Tech AI & ML, KTU – 6th Semester)
 Email: akash199699@gmail.com
