@@ -92,9 +92,9 @@ The project integrates a user-friendly UI with a backend powered by **Apache Spa
 - Virtual environment (recommended)
 
 ### 🔹 Install Dependencies
-
 ```bash
 pip install -r requirements.txt
+```
 
 
 🙌 Credits
@@ -103,4 +103,4 @@ Akash Krishna – Project developer
 Email: akash199699@gmail.com
 GitHub: @akash199699
 
-This project was developed as part of the mini project under the university curriculum. Special thanks to our mentors for their guidance and teammates - Jewel Sji and Anandhu S Kumar for their collaboration.
+This project was developed as part of the mini project under the university curriculum. Special thanks to our mentors for their guidance and teammates - Anandhu S Kumar and Jewel Saji for their collaboration.
