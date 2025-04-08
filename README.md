@@ -98,10 +98,10 @@ pip install -r requirements.txt
 
 
 ## 🙌 Credits
-Akash Krishna – Project Developer
-B.Tech AI & ML, KTU – 6th Semester
-📧 Email: akash199699@gmail.com
-🔗 GitHub: @akash199699
+- Akash Krishna – Project Developer
+- (B.Tech AI & ML, KTU – 6th Semester)
+- 📧 Email: akash199699@gmail.com
+- 🔗 GitHub: @akash199699
 
 This project was developed as part of the mini project under the university curriculum.
 Special thanks to our mentors for their guidance, and teammates Anandhu S Kumar and Jewel Saji for their collaboration.
